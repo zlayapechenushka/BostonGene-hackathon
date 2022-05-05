@@ -1,0 +1,138 @@
+ID	Tissue	Sample Timepoint	OS	OS_FLAG	Cause of death	Age	Gender	Ethnicity	Therapy	Therapy_detailed	platform_id
+ohsu_635	BM	Denovo	697.8000000000003	1.0	Dead-Disease	55.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_764	BM	Denovo	1377.6	0.0	Alive	50.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_923	BM	Denovo				61.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_50	BM	Relapse	1633.1999999999994	1.0	Dead-Disease	11.0	M	White	Lymphocyte infusion|Chemotherapy|Targeted therapy	DLI|Standard Chemotherapy|Bone Marrow Transplant|Targeted Therapy - Kinase Inhibitor(s)|Intrathecal	Illumina HiSeq 2500
+ohsu_29	BM		587.1	1.0	Dead-Unknown	34.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_953	BM	Denovo	1191.0	0.0	Alive	24.0	M	White	Lymphocyte infusion|Chemotherapy	DLI|Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1011	BM	Denovo				64.0	F	Black	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_685	BM	Relapse	1359.9	1.0	Dead-Disease	54.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1046	BM	Denovo	156.0	1.0	Dead-Other	7.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1049	BM		263.4	1.0	Dead-Disease	78.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_967	BM	After or at the time transformation from another heme malignancy	1149.6	1.0	Dead-Unknown	70.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1058	BM	Denovo	394.8	0.0	Alive	24.0	M	HispNative	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant|Intrathecal	Illumina HiSeq 2500
+ohsu_1086	BM	Denovo	742.1999999999997	1.0	Dead-Other	53.0	M	White			Illumina HiSeq 2500
+ohsu_1088	BM	Denovo	6.9	1.0	Dead-Other	65.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_928	BM	After or at the time transformation from another heme malignancy	1410.3	0.0	Alive	83.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1101	BM	Denovo	987.9	0.0	Alive	22.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1108	BM	Denovo	845.7	0.0	Alive	8.0	M	Asian	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1159	BM	Relapse	890.1	0.0	Alive	31.0	M	Asian	Lymphocyte infusion|Chemotherapy	DLI|Standard Chemotherapy|Bone Marrow Transplant|Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_1187	BM	Denovo	225.0	1.0	Dead-Treatment	63.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1248	BM		153.9	1.0	Dead-Unknown	71.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1255	BM	Denovo	242.7	1.0	Dead-Disease	55.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_757	BM		2479.8	1.0	Dead-Disease	32.0	F	White	Lymphocyte infusion|Chemotherapy	DLI|Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1397	BM	Denovo	381.0	1.0	Dead-Unknown	55.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1431	BM	Denovo	894.0	0.0	Alive	55.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1453	BM	Denovo				71.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1461	BM	Denovo	558.6	0.0	Alive	63.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1477	BM	Denovo	140.1	0.0	Alive	10.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1485	BM	Denovo	248.7	1.0	Dead-Disease	72.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1546	BM	Denovo	433.2	1.0	Dead-Disease	65.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1558	BM	Denovo	35.4	0.0	Alive	52.0	F	HispNative	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1646	BM	Denovo	454.8	0.0	Alive	47.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1648	BM	Denovo		0.0	Alive	69.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1664	BM	Denovo	447.0	0.0	Alive	22.0	F	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Bone Marrow Transplant|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_1723	BM	Denovo	456.0	1.0	Dead-Treatment	71.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1730	BM	Denovo	322.8	1.0	Dead-Disease	75.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1739	BM	Denovo	463.8	1.0	Dead-Disease	69.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1749	BM		1119.0	1.0	Dead-Other	75.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1754	BM					77.0	M	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_1761	BM	Denovo	561.5999999999998	0.0	Alive	64.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1763	BM	Denovo	558.6	0.0	Alive	37.0	M	Asian	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1775	BM	Denovo	250.8	1.0	Dead-Disease	59.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1783	BM	Denovo	241.8	1.0	Dead-Treatment	57.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1797	BM	Denovo	318.9000000000001	0.0	Alive	65.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1800	BM	Denovo	456.0	0.0	Alive	49.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1817	BM	Denovo	579.3	0.0	Alive	40.0	F	HispNative	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1820	BM	Denovo	213.3	1.0	Dead-Disease	39.0	M	White	Chemotherapy	Standard Chemotherapy|Intrathecal	Illumina HiSeq 2500
+ohsu_1843	BM	Denovo	66.0	1.0	Dead-Disease	84.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1847	BM	Denovo	159.9	1.0	Dead-Disease	71.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1848	BM	Denovo	436.2	0.0	Alive	61.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1852	BM	Denovo	14.7	1.0	Dead-Other	36.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1855	BM	After or at the time transformation from another heme malignancy	588.3	0.0	Alive	61.0	M	White	Lymphocyte infusion|Chemotherapy	DLI|Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1866	BM	Denovo				26.0	M	HispNative	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1868	BM	Denovo	444.0	0.0	Alive	65.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1877	BM	After or at the time transformation from another heme malignancy	15.9	1.0	Dead-Unknown	77.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1919	BM	Denovo	359.1	1.0	Dead-Disease	80.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1925	BM	Denovo	842.7	0.0	Alive	30.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_1929	BM		527.1	0.0	Alive	66.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1962	BM		906.0	1.0	Dead-Disease	53.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_1964	BM	After or at the time transformation from another heme malignancy	33.6	1.0	Dead-Disease	80.0	M	White	Targeted therapy	Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_1757	BM		437.1	1.0	Dead-Disease	48.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant|Intrathecal	Illumina HiSeq 2500
+ohsu_2028	BM	Denovo	469.8	0.0	Alive	29.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2032	BM	Denovo	265.5	1.0	Dead-Unknown	65.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2033	BM	Denovo				61.0	M	HispNative	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2052	BM	Denovo	241.8	1.0	Dead-Disease	43.0	F	White	Chemotherapy	Standard Chemotherapy|Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2084	BM	Denovo	79.80000000000003	1.0	Dead-Treatment	57.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2091	BM	Denovo	573.3	1.0	Dead-Disease	60.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2094	BM	Denovo	153.0	0.0	Alive	42.0	F	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other|Intrathecal	Illumina HiSeq 2500
+ohsu_2102	BM		3028.5	1.0	Dead-Disease	48.0	F	White	Lymphocyte infusion|Chemotherapy	DLI|Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2113	BM		319.8	1.0	Dead-Unknown	74.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2127	BM	After or at the time transformation from another heme malignancy	7.800000000000002	1.0	Dead-Disease	63.0	M	Black		Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2135	BM	After or at the time transformation from another heme malignancy				44.0	M	White			Illumina HiSeq 2500
+ohsu_2147	BM	Denovo	284.1	1.0	Dead-Unknown	71.0	M	White		Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2144	BM	Denovo	288.2999999999999	0.0	Alive	32.0	M	HispNative	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2192	BM	Denovo	279.3	0.0	Alive	36.0	F	Black	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2195	BM	After or at the time transformation from another heme malignancy	245.7	1.0	Dead-Disease	87.0	M	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2233	BM	Denovo	498.3	0.0	Alive	42.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2234	BM	Denovo	292.2	0.0	Alive	51.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2241	BM		536.7	0.0	Alive	52.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2251	BM	After or at the time transformation from another heme malignancy	78.89999999999998	1.0	Dead-Unknown	85.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2272	BM	Denovo	441.0	0.0	Alive	68.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2276	BM	Denovo	24.6	1.0	Dead-Other	63.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2277	BM	Relapse	557.7	1.0	Dead-Disease	72.0	F	White	Chemotherapy	Standard Chemotherapy|Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2279	BM	Denovo	827.1	0.0	Alive	66.0	F	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Bone Marrow Transplant|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2281	BM	Denovo	185.4	0.0	Alive	35.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2295	BM	Denovo	121.5	0.0	Alive	61.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2300	BM			0.0	Alive	34.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2304	BM	Relapse	252.6	1.0	Dead-Treatment	59.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2311	BM	After or at the time transformation from another heme malignancy	342.3	1.0	Dead-Disease	78.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2322	BM	Denovo	161.7	0.0	Alive	40.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2339	BM	Denovo	117.3	0.0	Alive	53.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2342	BM	Denovo	194.4	0.0	Alive	64.0	M	White	Chemotherapy	Standard Chemotherapy|Intrathecal	Illumina HiSeq 2500
+ohsu_2357	BM	Denovo				62.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2362	BM	Denovo	25.8	1.0	Dead-Disease	76.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2367	BM	Denovo	178.5	0.0	Alive	65.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant|Other	Illumina HiSeq 2500
+ohsu_2433	BM		419.4	1.0	Dead-Treatment	50.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2453	BM	After or at the time transformation from another heme malignancy	428.4	1.0	Dead-Disease	83.0	M	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2455	BM	Denovo	314.7	1.0	Dead-Disease	44.0	F	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Bone Marrow Transplant|Targeted Therapy - Kinase Inhibitor(s)	Illumina HiSeq 2500
+ohsu_2454	BM		16.8	1.0	Dead-Disease	75.0	M	White		Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2459	BM	Denovo	13.8	1.0	Dead-Disease	81.0	F	White		Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2473	BM	Denovo	387.9	0.0	Alive	55.0	M	AdmixedWhite	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_2490	BM	Denovo	198.3	0.0	Alive	51.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2499	BM	Denovo				67.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2442	BM		319.8	1.0	Dead-Unknown	25.0	F	AdmixedBlack	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2508	BM	Denovo	93.9	0.0	Alive	72.0	M				
+ohsu_2519	BM	Denovo	102.6	0.0	Alive	42.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2532	BM	Denovo	189.6	0.0	Alive	58.0	M	HispNative	Chemotherapy|Targeted therapy	Standard Chemotherapy|Bone Marrow Transplant|Targeted Therapy - Kinase Inhibitor(s)	Illumina HiSeq 2500
+ohsu_2533	BM	After or at the time transformation from another heme malignancy	156.9	1.0	Dead-Disease	75.0	M	Asian	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2569	BM		588.3	1.0	Dead-Disease	86.0	M	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2606	BM	Denovo	140.1	1.0	Dead-Disease	65.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2607	BM	Denovo	3.9	1.0	Dead-Disease	73.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2628	BM	Denovo	185.4	0.0	Alive	59.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2653	BM	Denovo	467.7	0.0	Alive	37.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant|Other	Illumina HiSeq 2500
+ohsu_2664	BM	After or at the time transformation from another heme malignancy	23.70000000000001	1.0	Dead-Unknown	78.0	F	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Kinase Inhibitor(s)	Illumina HiSeq 2500
+ohsu_2678	BM	Denovo	315.9	0.0	Alive	62.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2688	BM	Denovo	274.20000000000005	1.0	Dead-Disease	58.0	M	White	Chemotherapy	Standard Chemotherapy|Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_2705	BM		146.1	1.0	Dead-Disease	72.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_2708	BM		255.6	1.0	Dead-Disease	60.0	F	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_2715	BM	Denovo	347.4	0.0	Alive	26.0	F	Asian	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_3976	BM					77.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_3979	BM					70.0	M	HispNative	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_3986	BM	After or at the time transformation from another heme malignancy	195.3	1.0	Dead-Disease	62.0	F	White	Chemotherapy	Standard Chemotherapy|Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_4001	BM	After or at the time transformation from another heme malignancy	154.8	0.0	Alive	58.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_4007	BM		547.8000000000002	0.0	Alive	50.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_4008	BM		154.8	1.0	Dead-Unknown	34.0	F	HispNative	Chemotherapy	Standard Chemotherapy|Intrathecal	Illumina HiSeq 2500
+ohsu_4032	BM	After or at the time transformation from another heme malignancy	176.7	0.0	Alive	67.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_4039	BM	After or at the time transformation from another heme malignancy	27.6	1.0	Dead-Disease	73.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_4052	BM		459.0	0.0	Alive	45.0	F	Black	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_4196	BM	Denovo	150.9	0.0	Alive	55.0	F	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_4207	BM	Denovo	367.2	1.0	Dead-Disease	78.0	M	Asian	Chemotherapy	Standard Chemotherapy|Supportive/Palliative Care	Illumina HiSeq 2500
+ohsu_4229	BM	Denovo				61.0	M	White			Illumina HiSeq 2500
+ohsu_4239	BM	Denovo	181.5	0.0	Alive	61.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_4252	BM		198.3	1.0	Dead-Unknown	50.0	M	White	Chemotherapy	Standard Chemotherapy|Bone Marrow Transplant	Illumina HiSeq 2500
+ohsu_4260	BM		535.8	1.0	Dead-Disease	53.0	M	White	Chemotherapy|Targeted therapy	Standard Chemotherapy|Targeted Therapy - Other	Illumina HiSeq 2500
+ohsu_4291	BM	Denovo	120.3	0.0	Alive	73.0	F	HispNative	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_4299	BM	Denovo	299.1	0.0	Alive	38.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_4303	BM	Denovo	27.6	0.0	Alive	59.0	F	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
+ohsu_4310	BM		78.89999999999998	1.0	Dead-Unknown	64.0	M	White	Chemotherapy	Standard Chemotherapy	Illumina HiSeq 2500
